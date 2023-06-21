@@ -1,0 +1,29 @@
+{
+    "nome": "Leonardo Cave",
+    "cidade": "São José dos Campos",
+    "Telefone": 983223576,
+    "Jogos_favoritos": [
+      "Leagua of legends",
+      "Diablo",
+      "Magic the Gathering",
+      "ARK",
+      "GTA VI"
+    ],
+    "hobbies": {
+      "semana": {
+        "terca_quinta": "Jogar no computador",
+        "segunda_quarta_sexta": "Estudar Programação",
+        "outros": [
+          "Treinar Ping Pong",
+          "Estudar Inglês",
+          "Jogar Magic the Gathering"
+        ]
+      },
+      "fim_de_semana": {
+        "sabado": "Ir em na Kinoene jogar Magic the Gathering",
+        "domingo": "Ver series",
+        "outros": ["Treinar Ping Pong", "Jogar Magic the Gathering"]
+      }
+    }
+  }
+  
